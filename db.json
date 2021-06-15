@@ -7,7 +7,8 @@
       "thumbnail": "/testimage.jpeg",
       "price": 0.1,
       "total": 1,
-      "tags": ["cool", "hip", "yah yah"]
+      "tags": ["cool", "hip", "yah yah"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus viverra vitae congue eu consequat ac felis donec et. Aliquet eget sit amet tellus cras adipiscing enim eu. Maecenas accumsan lacus vel facilisis volutpat est. Felis donec et odio pellentesque diam volutpat commodo sed. Auctor augue mauris augue neque. Netus et malesuada fames ac turpis egestas maecenas pharetra convallis."
     },
     {
       "name": "Hot Girl",
@@ -16,7 +17,8 @@
       "thumbnail": "/testimage.jpeg",
       "price": 0.1,
       "total": 10,
-      "tags": ["cool", "hip", "yah yah"]
+      "tags": ["cool", "hip", "yah yah"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus viverra vitae congue eu consequat ac felis donec et. Aliquet eget sit amet tellus cras adipiscing enim eu. Maecenas accumsan lacus vel facilisis volutpat est. Felis donec et odio pellentesque diam volutpat commodo sed. Auctor augue mauris augue neque. Netus et malesuada fames ac turpis egestas maecenas pharetra convallis."
     },
     {
       "name": "Hot Girl",
@@ -25,7 +27,8 @@
       "thumbnail": "/testimage.jpeg",
       "price": 0.1,
       "total": 10000,
-      "tags": ["cool", "hip", "yah yah"]
+      "tags": ["cool", "hip", "yah yah"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus viverra vitae congue eu consequat ac felis donec et. Aliquet eget sit amet tellus cras adipiscing enim eu. Maecenas accumsan lacus vel facilisis volutpat est. Felis donec et odio pellentesque diam volutpat commodo sed. Auctor augue mauris augue neque. Netus et malesuada fames ac turpis egestas maecenas pharetra convallis."
     },
     {
       "name": "Hot Girl",
